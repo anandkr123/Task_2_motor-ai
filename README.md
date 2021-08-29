@@ -1,6 +1,8 @@
 # Task_2_motor-ai
 Motor-AI Task 2
 
+Ego and detected object plots and heading visulaization from the log files
+
 
 ## ego_and_object_plot.py
 
